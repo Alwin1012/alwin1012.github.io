@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://alwin1012.github.io//sitemap.xml
